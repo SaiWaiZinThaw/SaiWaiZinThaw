@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently working as a Junior FrontEnd Developer at YEC Company<br>
+👋 Hi there! I'm a passionate Junior Frontend Developer at YEC 🚀
+
+🌱 I specialize in building user-friendly and accessible web experiences with React.js, Next.js, TypeScript, HTML, CSS, and JavaScript.
+🐍 I also tinker with Python to solve challenges and automate tasks.
+🌟 During my internship, I developed DreamBook, a project close to my heart, where I gained valuable experience turning ideas into functional and beautiful digital products.
+🛠️ Currently, I’m leveling up my skills by working on real-world projects and contributing to impactful solutions.
+📌 Fun fact: My journey started with curiosity and self-learning, and now I’m living my dream of building web apps that inspire and delight users.
 
 
 ## 🌐 Socials:
